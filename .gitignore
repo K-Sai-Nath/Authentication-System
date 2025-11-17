@@ -1,12 +1,13 @@
 # Global ignores
 frontend/node_modules/
 backend/node_modules/
+
 frontend/.env
 backend/.env
 .env
 dist/
 build/
-
+*.env
 # Logs
 logs
 *.log
