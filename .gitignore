@@ -1,10 +1,13 @@
 # Global ignores
+
 frontend/node_modules/
 backend/node_modules/
 
 frontend/.env
 backend/.env
 .env
+dist/
+build/
 *.env
 # Logs
 logs
@@ -14,9 +17,12 @@ npm-debug.log*
 
 # Node global ignores
 node_modules/
+dist/
+dist-ssr/
+*.local
 
 # Editor
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
+*.DS_Store
