@@ -1,0 +1,6 @@
+
+.next/
+.expo/
+.cache/
+out/
+coverage/
