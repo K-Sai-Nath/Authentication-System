@@ -16,9 +16,6 @@ npm-debug.log*
 
 # Node global ignores
 node_modules/
-dist/
-dist-ssr/
-*.local
 
 # Editor
 .vscode/*
