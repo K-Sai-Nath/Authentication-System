@@ -1,0 +1,5 @@
+uploads/
+storage/
+pm2-logs/
+coverage/
+prisma/

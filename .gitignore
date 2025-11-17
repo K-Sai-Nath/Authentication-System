@@ -1,0 +1,26 @@
+# Global ignores
+frontend/node_modules/
+backend/node_modules/
+frontend/.env
+backend/.env
+.env
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+...
+
+# Node global ignores
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
